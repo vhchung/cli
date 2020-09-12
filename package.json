@@ -1,6 +1,6 @@
 {
   "name": "sequelize-sail-cli",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "A fork from sequelize/cli. The Sequelize CLI that migration database and generate models for sails",
   "bin": {
     "sequelize": "./lib/sequelize",
